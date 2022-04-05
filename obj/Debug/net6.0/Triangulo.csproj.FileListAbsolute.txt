@@ -1,0 +1,15 @@
+C:\WindowsForms\Curso\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\WindowsForms\Curso\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\WindowsForms\Curso\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\WindowsForms\Curso\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\WindowsForms\Curso\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\refint\Triangulo.dll
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
+C:\WindowsForms\Curso\Triangulo\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll
